@@ -324,6 +324,13 @@ SOFTWARE.
 
 ---
 
+## 📸 Screenshots
+
+![Desktop View](screenshot-desktop.png)
+![Mobile View](screenshot-mobile.png)
+![Mobile View](screenshot-dark-mode.png)
+---
+
 ## 💬 Support
 
 Need help? Have questions?
